@@ -41,9 +41,9 @@
       "target": "sample.js",
       "argumentFormat": ""
     }
-	/*,
+	,
     "PowerShell3": {
       "target": "sample.ps1"
-    }*/
+    }
   }
 }
