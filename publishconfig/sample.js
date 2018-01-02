@@ -11,7 +11,7 @@ var cwd = tl.getPathInput('cwd', false);
 // will error and fail task if it doesn't exist
 tl.checkPath(cwd, 'cwd');
 tl.cd(cwd);
-
+//testerdetest
 //rj
 var vars = tl.getVariables();
 for (var i = 0; i < vars.length; i++) {
